@@ -1,0 +1,14 @@
+
+.idea
+.mvn
+.DS_Store
+*.iml
+*.class
+target/
+.settings/
+.classpath
+.project
+*.versionsBackup
+.nondex
+*.log
+CryptoLog
